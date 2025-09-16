@@ -4,7 +4,7 @@
 **My name is William Udo**
 
 
-I am a computer Science undergraduate at the University of Missouri, Kansas City as well as an aspiring app developer and LLM specialist.  
+I am a computer Science undergraduate at the University of Missouri-Kansas City as well as an aspiring app developer and LLM specialist.  
   * 🌍  I'm based in Kansas City, MO
   * 🖥️  See my portfolio at [Github](http://github.com/williamudo)
   * ✉️  You can contact me at [wu7nf@umsystem.edu](mailto:wu7nf@umsystem.edu) * 🧠  I'm currently learning A new framework
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Hi there, I'm William Udo👋
 
 ## 🚀 About Me
-- 🎓 CS Undergrad student at UMKC, passionate about app development,and AI/ML.
+- 🎓 CS Undergrad student at the University of Missouri-Kansas City, passionate about app development,and AI/ML.
 - 💻 Currently learning **React** and **TypeScript**.
 - 🧠 Interested in **AI + app development** intersections.
 - 🌱 Building a SaaS project on the side.
