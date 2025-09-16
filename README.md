@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 🌱 Building a SaaS project on the side.
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Python, JavaScript, Swift
-- **Frameworks:** React, Node.js, Express
+- **Languages:** C++, Python, JavaScript, 
+- **Frameworks:** React, Node.js, Express, FastAPI
 - **Tools:** Git, Docker, Power Automate
 
 ## 📫 Connect with Me
