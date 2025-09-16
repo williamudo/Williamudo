@@ -1,30 +1,3 @@
-
-<!--
-## Hi there 👋 
-**My name is William Udo**
-
-
-I am a computer Science undergraduate at the University of Missouri-Kansas City as well as an aspiring app developer and LLM specialist.  
-  * 🌍  I'm based in Kansas City, MO
-  * 🖥️  See my portfolio at [Github](http://github.com/williamudo)
-  * ✉️  You can contact me at [wu7nf@umsystem.edu](mailto:wu7nf@umsystem.edu) * 🧠  I'm currently learning A new framework
-
--->
-<!--
-**williamudo/Williamudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm William Udo👋
 
 ## 🚀 About Me
@@ -35,7 +8,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 - **Languages:** C++, Python, JavaScript, 
-- **Frameworks:** React, Node.js, Express, FastAPI
+- **Frameworks:** React, Node.js, Express, FastAPI, PostgreSQL
 - **Tools:** Git, Docker, Power Automate
 
 ## 📫 Connect with Me
