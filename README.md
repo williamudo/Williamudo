@@ -1,7 +1,7 @@
 # Hi there, I'm William Udo👋
 
 ## 🚀 About Me
-- 🎓 CS Undergrad student at the University of Missouri-Kansas City, passionate about app development,and AI/ML.
+- 🎓 CS Undergraduate student at the University of Missouri-Kansas City with a passion for application development,and AI/ML.
 - 💻 Currently learning **React** and **TypeScript**.
 - 🧠 Interested in **AI + app development** intersections.
 - 🌱 Building a SaaS project on the side.
